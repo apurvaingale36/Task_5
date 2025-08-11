@@ -34,10 +34,5 @@ Capture live network packets, identify basic network protocols, and document fin
 * **HTTP (TCP/80)** → Browsing unencrypted websites.
 * **ICMP** → Network connectivity testing (ping).
 
-## **Notes**
-
-* Capture file may contain additional protocols depending on background system activity.
-* Ensure sensitive data is removed before sharing captures publicly.
-* For deeper analysis, use Wireshark’s **Statistics → Protocol Hierarchy** and **Follow TCP Stream** features.
 
 
